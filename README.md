@@ -69,6 +69,21 @@ Cross-Browser Compatibility · Manual & Functional Testing · Bug Tracking & Reg
 - Frontend Development Internship Certificate, National Telecommunication Institute (NTI) — Jun 2025
 
 ---
+---
+
+### 💼 Experience
+
+**Front-End Developer Intern** — Infinity X Solutions
+- Collaborated with cross-functional engineering teams to build scalable, high-performance web apps
+- Developed responsive UI with modular, maintainable React component structures
+- Gained hands-on experience with Next.js in production-grade workflows
+
+**Frontend Developer Intern** — National Telecommunication Institute (NTI) · *Jun 2025 – Aug 2025*
+- Built responsive, interactive interfaces using HTML5, CSS3, JavaScript, and React.js
+- Worked with RESTful APIs to fetch and display dynamic data
+- Used Git & GitHub for version control and team collaboration
+
+---
 
 ### 📊 GitHub Stats
 

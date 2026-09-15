@@ -18,12 +18,8 @@ and high-performance web applications. I specialize in the **React.js / Next.js 
 converting mockups into fast, scalable, maintainable products, with a strong focus on
 UI/UX principles, clean component architecture, and performance optimization.
 
-Currently studying **Computer Science at Ain Shams University**, and working as a
-**Front-End Developer Intern at Infinity X Solutions**.
-
-- 🔭 Currently building **FreightPulse** — a real-time freight & logistics intelligence dashboard
 - 🌱 Deepening my knowledge of Next.js App Router patterns and performance optimization
-- 🤝 Open to front-end internships, junior roles, and freelance work
+- 🤝 Actively looking for a front-end opportunity — reach out if you're hiring!
 - 📫 Reach me at **faridaemad7724@gmail.com**
 
 ---

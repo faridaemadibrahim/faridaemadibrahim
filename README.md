@@ -54,8 +54,8 @@ Cross-Browser Compatibility · Manual & Functional Testing · Bug Tracking & Reg
 | Project | Description | Stack |
 |---|---|---|
 | **[FreightPulse](https://freight-pulse-frontend.vercel.app)** | AI-powered freight & logistics dashboard for MENA — live shipping rates, port congestion, and carrier advisories with real-time WebSocket alerts | Next.js, TypeScript, Tailwind, Zustand, Recharts |
-| **Meetza** | All-in-one collaboration platform unifying meetings, chat, group management, and calendar scheduling with dark/light themes | React.js, Socket.io, React Router, Framer Motion |
-| **Quizzy** | Interactive quiz platform for creating and taking dynamic quizzes through an intuitive interface | React.js, Bootstrap, RESTful APIs |
+| **[Meetza](https://meetza-front-end.vercel.app)** | All-in-one collaboration platform unifying meetings, chat, group management, and calendar scheduling with dark/light themes | React.js, Socket.io, React Router, Framer Motion |
+| **[Quizzy](https://qwizzy-front-end.vercel.app)** | Interactive quiz platform for creating and taking dynamic quizzes through an intuitive interface | React.js, Bootstrap, RESTful APIs |
 | **Merto** | Responsive e-commerce platform with product browsing and core shopping functionality | React.js, Bootstrap, Responsive Design |
 
 **Other implementations:** Pharmacy Management System (Java, OOP), Gym Management System
